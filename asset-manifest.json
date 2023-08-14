@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/go-daddy-assignment/static/css/main.073c9b0a.css",
+    "main.js": "/go-daddy-assignment/static/js/main.a61367f2.js",
+    "static/js/622.339224a0.chunk.js": "/go-daddy-assignment/static/js/622.339224a0.chunk.js",
+    "static/js/464.87d962a4.chunk.js": "/go-daddy-assignment/static/js/464.87d962a4.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/go-daddy-assignment/static/js/787.28cb0dcd.chunk.js",
+    "static/js/517.553336af.chunk.js": "/go-daddy-assignment/static/js/517.553336af.chunk.js",
+    "static/js/243.7bac3943.chunk.js": "/go-daddy-assignment/static/js/243.7bac3943.chunk.js",
+    "index.html": "/go-daddy-assignment/index.html",
+    "main.073c9b0a.css.map": "/go-daddy-assignment/static/css/main.073c9b0a.css.map",
+    "main.a61367f2.js.map": "/go-daddy-assignment/static/js/main.a61367f2.js.map",
+    "622.339224a0.chunk.js.map": "/go-daddy-assignment/static/js/622.339224a0.chunk.js.map",
+    "464.87d962a4.chunk.js.map": "/go-daddy-assignment/static/js/464.87d962a4.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/go-daddy-assignment/static/js/787.28cb0dcd.chunk.js.map",
+    "517.553336af.chunk.js.map": "/go-daddy-assignment/static/js/517.553336af.chunk.js.map",
+    "243.7bac3943.chunk.js.map": "/go-daddy-assignment/static/js/243.7bac3943.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a61367f2.js"
+  ]
+}
