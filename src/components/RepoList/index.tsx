@@ -47,7 +47,7 @@ function RepoList() {
             <DefaultBranchHeader>Default branch</DefaultBranchHeader>
         </ListHeader>
         <ListHolder>
-            {data?.map((el) => <SingleList onClick={() => handleClick(el)} key={el.id} data-testid='singleRepo'>
+            {data?.map((el, index) => <SingleList onClick={() => handleClick(el)} key={el.id} data-testid={`SingleRepo-${index}`}>
                 <Avatar src={el?.owner?.avatar_url} />
                 <RepoName>{el.name}</RepoName>
                 <OwnerType>{el?.owner?.type}</OwnerType>

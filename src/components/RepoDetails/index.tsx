@@ -23,7 +23,7 @@ function RepoDetails() {
         }
     }, [])
 
-    return <DetailsContainer>
+    return <DetailsContainer data-testid='RepoDetails'>
         <LeftHandComponent><BackIcon src={backIcon} onClick={hadleBackCLick} /></LeftHandComponent>
         <RightHandComponent>
             <Name><Title>Name: </Title>{data?.name}</Name>

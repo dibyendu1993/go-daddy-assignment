@@ -13,6 +13,7 @@ gap: 20px;
 padding: 18px 40px 40px 40px;
 box-shadow: 2px 3px 11px -4px rgba(0,0,0,0.75);
 border-radius: 10px;
+max-width: 60%;
 `
 
 export const LeftHandComponent = styled.aside`
